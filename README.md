@@ -58,11 +58,6 @@ A **LangGraph-based agentic retrieval application** with Qdrant-powered hybrid r
 - **Engineering clarity:** readable code, documented architecture, and reproducible setup
 - **Continuous learning:** testing emerging AI tools through practical projects
 
-## Explore & Connect
-
-- 🗂️ [Browse my repositories](https://github.com/mosanalee231?tab=repositories)
-- 🔗 **LinkedIn:** Add your real LinkedIn profile URL here
-- 🌐 **Portfolio:** Add your portfolio URL here when ready
 
 ---
 
